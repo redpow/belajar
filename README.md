@@ -4,4 +4,4 @@ Selamat Melihat-lihat :
 *	Aplikasi
 *	Tugas Kampus
 *	Tugas teman
-#	Sekian dan Terimakasih
+*	Oppai
